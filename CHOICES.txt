@@ -5,4 +5,4 @@ Second Choice: _2___
 Third Choice: __1__
 Fourth Choice: __1__
 Fifth Choice: __1__
-Sixth Choice:_____
+Sixth Choice:__2__
